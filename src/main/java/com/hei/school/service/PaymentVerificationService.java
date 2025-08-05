@@ -1,4 +1,3 @@
 package com.hei.school.service;
 
-public class PaymentVerificationService {
-}
+public class PaymentVerificationService {}
